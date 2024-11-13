@@ -31,6 +31,12 @@ Si aucun résultats avec theHarvester
 Sinon script Python pour trouver des emails
 
 Pour trouver des outils il suffit de taper Information Gathering Tools Github dans la barre de recherche
+
 #### Sherlock
+Permet de trouver si le nom d'utilisateur existe sur d'autre plateforme
 sudo apt install sherlock
 
+pour l'utiliser :
+```
+serlock nom_du_user_recherché
+```
